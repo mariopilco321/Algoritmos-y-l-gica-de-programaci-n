@@ -1,4 +1,0 @@
-Laptop 850 2
-Mouse 15 5
-Teclado 30 3
-Monitor 180 2
