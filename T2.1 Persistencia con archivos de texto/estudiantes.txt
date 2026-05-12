@@ -1,0 +1,15 @@
+Nombre: Mario
+Edad: 18
+Carrera: Software
+Promedio: 8
+------------------------
+Nombre: Pilco Mario
+Edad: 18
+Carrera: Software
+Promedio: 9.1
+------------------------
+Nombre: Atiencia Josue
+Edad: 18
+Carrera: Software
+Promedio: 8
+------------------------
